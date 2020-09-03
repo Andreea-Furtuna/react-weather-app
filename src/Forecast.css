@@ -1,0 +1,30 @@
+.weather-forecast {
+  margin-top: 10px;
+  text-align: justify;
+}
+
+.weather-forecast h3 {
+  color: rgb(8, 121, 163);
+  font-size: 15px;
+  font-weight: 400;
+  text-align: center;
+  height: 15px;
+  line-height: 15px;
+  padding-top: 7px;
+}
+
+.weather-forecast img {
+  display: block;
+  height: 48px;
+  width: 48px;
+  margin: 0 auto;
+}
+.weather-forecast-temperature {
+  text-align: center;
+  color: rgb(8, 121, 163);
+  font-size: 15px;
+  font-weight: 400;
+  height: auto;
+  line-height: 15px;
+  white-space: nowrap;
+}
