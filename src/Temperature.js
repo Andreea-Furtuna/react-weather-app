@@ -34,6 +34,7 @@ export default function Temperature() {
             <img
               src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTG_JuVgXh3RA-sHP6xZeD93Cn_nr_eme-KUg&usqp=CAU"
               width="50px"
+              alt="temp"
             />
           </li>
           <br />

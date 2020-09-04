@@ -28,6 +28,7 @@ export default function Search() {
             <img
               src="https://png.pngtree.com/png-vector/20190215/ourlarge/pngtree-vector-location-icon-png-image_515424.jpg"
               className="location-icon"
+              alt="source"
             />
           </button>
         </div>

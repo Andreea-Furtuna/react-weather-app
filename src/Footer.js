@@ -8,6 +8,7 @@ export default function Footer() {
         <a
           href="https://github.com/Andreea-Furtuna/How-is-the-weather-today"
           target="_blank"
+          rel="noopener noreferrer"
         >
           Open-source code
         </a>
