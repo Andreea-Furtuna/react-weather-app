@@ -14,14 +14,11 @@
 
 .location-icon {
   width: 25px;
-  position: relative;
   padding: 5px 5px 5px 5px;
 }
 
 .search-button {
-  position: relative;
   padding: 5px 5px 5px 5px;
-
   border: 0.9 solid black;
   border-radius: 5px;
   transition: all 200ms ease-in-out;

@@ -28,6 +28,7 @@ li {
 .fahr {
   color: rgb(8, 121, 163);
   cursor: default;
+  text-align: center;
 }
 .weather-image .active:hover,
 .fahr:hover {

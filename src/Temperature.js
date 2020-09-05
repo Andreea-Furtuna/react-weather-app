@@ -16,13 +16,13 @@ export default function Temperature() {
           <div class="float-left">
             <strong id="temperature"></strong>
             <span className="units">
-              <a href="#" id="celsius-link" className="active">
+              <button id="celsius-link" className="active">
                 °C
-              </a>{" "}
+              </button>{" "}
               |
-              <a href="#" id="fahrenheit-link" className="fahr">
-                F
-              </a>
+              <button id="fahrenheit-link" className="fahr">
+                °F
+              </button>
             </span>
           </div>
         </div>
@@ -43,6 +43,7 @@ export default function Temperature() {
             <img
               src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgJIq_P2f6Obg09N9HcHHUzYEfZ14AxbodRA&usqp=CAU"
               width="50px"
+              alt="wind"
             />
           </li>
         </ul>
